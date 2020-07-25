@@ -1,1 +1,0 @@
-# HOUSE PRICE ANALYSIS - King County (2014-2015)
