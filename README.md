@@ -1,4 +1,3 @@
-# House_Price_Analysis
 # HOUSE PRICE ANALYSIS - King County (2014-2015)
 
 This study was done for stakeholders assumed to be investors trying to built a portfolio of real state. The price range requested by them was up to 1,000,000$ per property with no specific characteristics per unit. Their objective is to get the most value possible for their money.
@@ -70,7 +69,7 @@ The EDA was done as an iterative process since the data cleaning started. Not on
 
 With the first pass on the data it was noticed that the "zipcode" column was going to probably be the most important one in terms of affecting the price of the properties. However, we were dealing with 70 different categories, therefore, it was decided to group them into 4 different sectors. These sectors were defined by plotting all the houses on a map color coded by their price. It was then relatively easy to see that 4 main areas could be identified, which were named Sector 1, 2, 3 and 4 respectively (Figure 1). Nevertheless, the average price per zipcode was calculated and a bar plot was made which ratified that the prices are directly tied to the zipcodes (Figure 2)
 
-![Figure_1](img/Figure_1.png)
+(img/Figure_1.png)
 <b>Figure 1</b>. Map displaying all properties color coded by price
 
 ![Figure_2](img/Figure_2.png)
