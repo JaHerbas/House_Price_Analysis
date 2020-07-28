@@ -158,6 +158,7 @@ One of the most interesting findings was the "Average Price per Square foot" by 
 <b>Figure 9</b>. Average Price per sqft by sector.
 
 ![Figure_10](img/Figure_10.png)
+
 <b>Figure 10</b>. Additional data from Average Price vs sqft by sector
 
 
